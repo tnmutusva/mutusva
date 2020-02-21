@@ -1,0 +1,12 @@
+name: "trevor-mutusva"
+navbar:
+  title: "Trevor Mutusva"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Markdown"
+      href: Rmarkdown.html
+      
+output_dir: "docs"     
